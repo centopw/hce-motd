@@ -1,3 +1,3 @@
 ```bash
-curl -fsSL https://raw.githubusercontent.com/centopw/hce-motd/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/centopw/hce-motd/main/install.sh | sudo bash
 ```
